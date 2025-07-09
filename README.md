@@ -1,1 +1,1 @@
-# -Lexisg-frontend-intern-test
+# Lexisg-frontend-intern-test
